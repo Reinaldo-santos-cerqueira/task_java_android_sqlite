@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#3C313E</color>
+    <color name="inputBgColor">#312732</color>
+    <color name="textColor">#DCBAE3</color>
+    <color name="textColorSubTitle">#9E8D9F</color>
+    <color name="btnSearchBg">#E06163</color>
+</resources>
